@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string  name="rb_Choice1">OTU</string>
+    <string name="rb_Choice2">UO</string>
+    <string name="rb_Choice3">UFT</string>
+    <string-array name="cities">
+        <item>Toronto</item>
+        <item>Oshawa</item>
+        <item>Oakville</item>
+        <item>Whitby</item>
+    </string-array>
+</resources>
